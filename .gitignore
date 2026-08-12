@@ -13,6 +13,7 @@ deploy/
 .env
 .env.local
 .env.*.local
+.venv/
 
 # IDE
 .idea/
@@ -33,6 +34,9 @@ pnpm-debug.log*
 # Testing
 coverage/
 .nyc_output/
+
+# Downloaded media
+instagram_downloads/
 
 # Misc
 *.log

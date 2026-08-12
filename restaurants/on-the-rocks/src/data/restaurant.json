@@ -1,0 +1,94 @@
+{
+  "name": "On the Rocks",
+  "slug": "on-the-rocks",
+  "tagline": "180° Ocean Views. Unforgettable Dining.",
+  "description": "On the Rocks isn't just a restaurant. It's a destination. Perched on Blouberg Strand with uninterrupted views of Table Mountain and Robben Island, we offer elegant coastal dining from sunrise breakfasts to romantic sunset dinners. A local favourite and must-visit tourist spot, known for signature dishes, Bertha Wines, and the most beautiful views in Cape Town.",
+  "location": "Stadler Road, Bloubergstrand, Cape Town",
+  "phone": "+27 21 554 1988",
+  "email": "ontherocks@seascapecollection.co.za",
+  "social": {
+    "instagram": "https://instagram.com/ontherocks_rest",
+    "facebook": "https://facebook.com/OnTheRocksBlouberg"
+  },
+  "theme": {
+    "primary": "#0F4C75",
+    "secondary": "#E8F4F8",
+    "accent": "#D4AF37",
+    "dark": "#0A1A22",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    { "day": "Monday – Sunday", "time": "08:00 – 22:00" }
+  ],
+  "menuCategories": [
+    {
+      "name": "Breakfast",
+      "items": [
+        {
+          "name": "Eggs Benedict",
+          "description": "Start your day with classic eggs benedict as the sun rises over Table Mountain.",
+          "price": "R115",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Full Coastal Breakfast",
+          "description": "A hearty spread with local flavours, perfect for a relaxed morning by the sea.",
+          "price": "R135",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Lunch & Dinner",
+      "items": [
+        {
+          "name": "Cape Seafood Platter",
+          "description": "The best of Cape Seafood Cuisine with a modern twist, served with panoramic ocean views.",
+          "price": "R295",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Grilled Line Fish",
+          "description": "Fresh catch of the day, simply grilled and paired with seasonal sides.",
+          "price": "R185",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Flourless Chocolate Cake",
+          "description": "Decadently served with salted caramel popcorn and crème fraîche.",
+          "price": "R85",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Cape Velvet Panna Cotta",
+          "description": "Poached plums, almond soil, and an On the Rocks twist.",
+          "price": "R80",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "/assets/images/placeholder-interior.svg",
+    "/assets/images/placeholder-food.svg",
+    "/assets/images/placeholder-food.svg",
+    "/assets/images/placeholder-food.svg"
+  ],
+  "testimonials": [
+    {
+      "text": "The view alone is worth the trip. Best restaurant view in Cape Town.",
+      "author": "WhaleTales Blog"
+    },
+    {
+      "text": "A must-visit for postcard finders, tourists, and locals alike.",
+      "author": "Cape Town Foodie"
+    }
+  ],
+  "heroImage": "/assets/images/placeholder-interior.svg",
+  "aboutImage": "/assets/images/placeholder-interior.svg"
+}
