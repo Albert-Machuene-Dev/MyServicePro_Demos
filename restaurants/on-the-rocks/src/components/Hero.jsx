@@ -3,16 +3,31 @@ import { ChevronDown, MapPin, Phone } from 'lucide-react'
 import restaurant from '../data/restaurant.json'
 
 function Hero({ onBook }) {
+  const hasVideo = Boolean(restaurant.heroVideo && restaurant.heroVideo.trim() !== '')
+
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Background Image with slow zoom */}
+      {/* Background: video (if provided) or image with slow zoom */}
       <div className="absolute inset-0 z-0">
-        <div 
-          className="absolute inset-0 bg-cover bg-center animate-slow-zoom"
-          style={{ 
-            backgroundImage: `url('${restaurant.heroImage || '/src/assets/images/placeholder-food.svg'}')`,
-          }}
-        />
+        {hasVideo ? (
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            poster={restaurant.heroImage || undefined}
+            className="absolute inset-0 w-full h-full object-cover"
+          >
+            <source src={restaurant.heroVideo} type="video/mp4" />
+          </video>
+        ) : (
+          <div
+            className="absolute inset-0 bg-cover bg-center animate-slow-zoom"
+            style={{
+              backgroundImage: `url('${restaurant.heroImage || '/src/assets/images/placeholder-food.svg'}')`,
+            }}
+          />
+        )}
         <div className="absolute inset-0 bg-gradient-to-b from-dark/70 via-dark/50 to-dark" />
       </div>
 

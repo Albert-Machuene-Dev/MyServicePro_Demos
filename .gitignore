@@ -37,6 +37,7 @@ coverage/
 
 # Downloaded media
 instagram_downloads/
+restaurants/*/public/assets/images/manual-staging/
 
 # Misc
 *.log
