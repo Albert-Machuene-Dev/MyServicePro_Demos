@@ -11,7 +11,7 @@ MyServicePro_Demos/
 │   └── restaurant-demo-template/
 ├── docs/                           # Sales docs, pitch scripts, pricing
 └── restaurants/                    # One sub-project per business
-    ├── cattle-baron-tyger/
+    ├── cattle-baron-tyger-waterfront/
     └── ...
 ```
 
@@ -30,8 +30,8 @@ This scaffolds a new project under `restaurants/restaurant-name/`.
 Place images and videos into:
 
 ```
-restaurants/<slug>/src/assets/images/
-restaurants/<slug>/src/assets/videos/
+restaurants/<slug>/public/assets/images/
+restaurants/<slug>/public/assets/videos/
 ```
 
 ### 3. Customize Content
@@ -55,6 +55,18 @@ npm run dev
 ```bash
 npm run build
 ```
+
+### 6. Deploy All Demos
+
+```bash
+node scripts/deploy-all.js
+```
+
+This builds every restaurant demo and generates a combined `deploy/` folder with a root index page.
+
+## GitHub Pages Deployment
+
+See `docs/github-setup.md` for step-by-step instructions to push to GitHub and enable automatic GitHub Pages deployment.
 
 ## Tech Stack
 
