@@ -18,9 +18,18 @@
     "light": "#FFFFFF"
   },
   "hours": [
-    { "day": "Mon–Thu", "time": "12:00 – 22:00" },
-    { "day": "Fri–Sat", "time": "12:00 – 23:00" },
-    { "day": "Sunday", "time": "12:00 – 21:00" }
+    {
+      "day": "Mon–Thu",
+      "time": "12:00 – 22:00"
+    },
+    {
+      "day": "Fri–Sat",
+      "time": "12:00 – 23:00"
+    },
+    {
+      "day": "Sunday",
+      "time": "12:00 – 21:00"
+    }
   ],
   "menuCategories": [
     {
@@ -30,19 +39,19 @@
           "name": "300g Sirloin",
           "description": "Aged for 28 days, flame-grilled to your liking, served with roasted vegetables and hand-cut chips.",
           "price": "R189",
-          "image": "assets/images/sirloin.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2lybG9pbkdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNWMxYTFhO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxYTBhMGE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0idXJsKCNzaXJsb2luR3JhZCkiLz4KICA8ZWxsaXBzZSBjeD0iNDAwIiBjeT0iMzIwIiByeD0iMjIwIiByeT0iMTQwIiBmaWxsPSIjOEI0NTEzIiBvcGFjaXR5PSIwLjYiLz4KICA8ZWxsaXBzZSBjeD0iMzgwIiBjeT0iMzAwIiByeD0iMTgwIiByeT0iMTEwIiBmaWxsPSIjQTA1MjJEIiBvcGFjaXR5PSIwLjciLz4KICA8dGV4dCB4PSI0MDAiIHk9IjI5MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjRjVGNURDIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4zMDBnIFNpcmxvaW48L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q0QUYzNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UmVwbGFjZSB3aXRoIHJlYWwgZm9vZCBwaG90bzwvdGV4dD4KPC9zdmc+Cg=="
         },
         {
           "name": "500g T-Bone",
           "description": "The ultimate steak lover's cut. Bold flavor, perfect char, basted in our signature basting.",
           "price": "R249",
-          "image": "assets/images/tbone.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGJvbmVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzRhMWExYTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMWEwODA4O3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjdGJvbmVHcmFkKSIvPgogIDxyZWN0IHg9IjI2MCIgeT0iMjQwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjQwIiByeD0iMjAiIGZpbGw9IiNDRDg1M0YiIG9wYWNpdHk9IjAuNyIgdHJhbnNmb3JtPSJyb3RhdGUoLTE1IDQwMCAyNjApIi8+CiAgPHJlY3QgeD0iMzAwIiB5PSIyODAiIHdpZHRoPSIyNDAiIGhlaWdodD0iNDAiIHJ4PSIyMCIgZmlsbD0iI0EwNTIyRCIgb3BhY2l0eT0iMC43IiB0cmFuc2Zvcm09InJvdGF0ZSgxNSA0MjAgMzAwKSIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjkwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMzYiIGZpbGw9IiNGNUY1REMiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjUwMGcgVC1Cb25lPC90ZXh0PgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IiNENEFGMzciIHRleHQtYW5jaG9yPSJtaWRkbGUiPlJlcGxhY2Ugd2l0aCByZWFsIGZvb2QgcGhvdG88L3RleHQ+Cjwvc3ZnPgo="
         },
         {
           "name": "Slow-Cooked Ribs",
           "description": "Tender pork ribs basted in a smoky BBQ glaze, falling off the bone.",
           "price": "R215",
-          "image": "assets/images/ribs.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icmlic0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNmIxYTFhO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxYTA4MDg7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0idXJsKCNyaWJzR3JhZCkiLz4KICA8cGF0aCBkPSJNMjUwIDMwMCBRMzIwIDIyMCA0MDAgMzAwIFQ1NTAgMzAwIiBzdHJva2U9IiM4QjQ1MTMiIHN0cm9rZS13aWR0aD0iMzUiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuOCIvPgogIDxwYXRoIGQ9Ik0yNTAgMzQwIFEzMjAgMjYwIDQwMCAzNDAgVDU1MCAzNDAiIHN0cm9rZT0iI0EwNTIyRCIgc3Ryb2tlLXdpZHRoPSIzNSIgZmlsbD0ibm9uZSIgb3BhY2l0eT0iMC44Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSIyOTAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIzNiIgZmlsbD0iI0Y1RjVEQyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+U2xvdy1Db29rZWQgUmliczwvdGV4dD4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjRDRBRjM3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5SZXBsYWNlIHdpdGggcmVhbCBmb29kIHBob3RvPC90ZXh0Pgo8L3N2Zz4K"
         }
       ]
     },
@@ -53,13 +62,13 @@
           "name": "Grilled Kingklip",
           "description": "Line-fresh kingklip, lemon butter sauce, seasonal greens, and herb rice.",
           "price": "R195",
-          "image": "assets/images/seafood.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2VhZm9vZEdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMWEzYTRhO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwYTFhMjI7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0idXJsKCNzZWFmb29kR3JhZCkiLz4KICA8ZWxsaXBzZSBjeD0iNDAwIiBjeT0iMzAwIiByeD0iMjAwIiByeT0iMTIwIiBmaWxsPSIjRjVGNURDIiBvcGFjaXR5PSIwLjIiLz4KICA8cGF0aCBkPSJNMzAwIDMwMCBRNDAwIDIyMCA1MDAgMzAwIiBzdHJva2U9IiNGRkQ3MDAiIHN0cm9rZS13aWR0aD0iMjAiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjkwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMzYiIGZpbGw9IiNGNUY1REMiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkdyaWxsZWQgS2luZ2tsaXA8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q0QUYzNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UmVwbGFjZSB3aXRoIHJlYWwgZm9vZCBwaG90bzwvdGV4dD4KPC9zdmc+Cg=="
         },
         {
           "name": "Baron Burger",
           "description": "Double patty, aged cheddar, caramelized onions, crispy bacon, and house sauce.",
           "price": "R145",
-          "image": "assets/images/burger.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYnVyZ2VyR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4QjQ1MTM7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNkMWQwZDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNjAwIiBmaWxsPSJ1cmwoI2J1cmdlckdyYWQpIi8+CiAgPGVsbGlwc2UgY3g9IjQwMCIgY3k9IjI2MCIgcng9IjE2MCIgcnk9IjYwIiBmaWxsPSIjRDI2OTFFIiBvcGFjaXR5PSIwLjgiLz4KICA8cmVjdCB4PSIyNTAiIHk9IjI2MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSI0MCIgZmlsbD0iIzIyOEIyMiIgb3BhY2l0eT0iMC44Ii8+CiAgPGVsbGlwc2UgY3g9IjQwMCIgY3k9IjMyMCIgcng9IjE3MCIgcnk9IjUwIiBmaWxsPSIjQTA1MjJEIiBvcGFjaXR5PSIwLjkiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjRjVGNURDIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5CYXJvbiBCdXJnZXI8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSI0ODAiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q0QUYzNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UmVwbGFjZSB3aXRoIHJlYWwgZm9vZCBwaG90bzwvdGV4dD4KPC9zdmc+Cg=="
         }
       ]
     },
@@ -70,13 +79,13 @@
           "name": "Hand-Cut Chips",
           "description": "Crispy, golden, and perfectly salted.",
           "price": "R45",
-          "image": "assets/images/chips.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iY2hpcHNHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I2Q0YTAxNztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNWE0MDA4O3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjY2hpcHNHcmFkKSIvPgogIDxyZWN0IHg9IjMwMCIgeT0iMjAwIiB3aWR0aD0iMjUiIGhlaWdodD0iMTgwIiByeD0iMTAiIGZpbGw9IiNGNEQwM0YiIG9wYWNpdHk9IjAuOCIgdHJhbnNmb3JtPSJyb3RhdGUoLTEwIDMxMiAyOTApIi8+CiAgPHJlY3QgeD0iMzQwIiB5PSIxOTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIxOTAiIHJ4PSIxMCIgZmlsbD0iI0Y3REM2RiIgb3BhY2l0eT0iMC44IiB0cmFuc2Zvcm09InJvdGF0ZSg1IDM1MiAyODUpIi8+CiAgPHJlY3QgeD0iMzgwIiB5PSIyMDAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIxODAiIHJ4PSIxMCIgZmlsbD0iI0Y0RDAzRiIgb3BhY2l0eT0iMC44IiB0cmFuc2Zvcm09InJvdGF0ZSgxNSAzOTIgMjkwKSIvPgogIDxyZWN0IHg9IjQyMCIgeT0iMjEwIiB3aWR0aD0iMjUiIGhlaWdodD0iMTcwIiByeD0iMTAiIGZpbGw9IiNGN0RDNkYiIG9wYWNpdHk9IjAuOCIgdHJhbnNmb3JtPSJyb3RhdGUoLTUgNDMyIDI5NSkiLz4KICA8cmVjdCB4PSI0NjAiIHk9IjIwMCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjE4MCIgcng9IjEwIiBmaWxsPSIjRjREMDNGIiBvcGFjaXR5PSIwLjgiIHRyYW5zZm9ybT0icm90YXRlKDEwIDQ3MiAyOTApIi8+CiAgPHRleHQgeD0iNDAwIiB5PSI0NTAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIzNiIgZmlsbD0iI0Y1RjVEQyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SGFuZC1DdXQgQ2hpcHM8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSI1MDAiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q0QUYzNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UmVwbGFjZSB3aXRoIHJlYWwgZm9vZCBwaG90bzwvdGV4dD4KPC9zdmc+Cg=="
         },
         {
           "name": "Creamed Spinach",
           "description": "Rich, creamy, and the perfect partner to any steak.",
           "price": "R42",
-          "image": "assets/images/spinach.svg"
+          "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic3BpbmFjaEdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMWE0YTFhO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwYTFhMGE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0idXJsKCNzcGluYWNoR3JhZCkiLz4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzMDAiIHI9IjE1MCIgZmlsbD0iIzIyOEIyMiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMjgwIiByPSI4MCIgZmlsbD0iIzMyQ0QzMiIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iNDIwIiBjeT0iMzIwIiByPSI3MCIgZmlsbD0iIzJFOEI1NyIgb3BhY2l0eT0iMC40Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSIyOTAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIzNiIgZmlsbD0iI0Y1RjVEQyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Q3JlYW1lZCBTcGluYWNoPC90ZXh0PgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IiNENEFGMzciIHRleHQtYW5jaG9yPSJtaWRkbGUiPlJlcGxhY2Ugd2l0aCByZWFsIGZvb2QgcGhvdG88L3RleHQ+Cjwvc3ZnPgo="
         }
       ]
     }
@@ -88,8 +97,8 @@
     "assets/images/ribs.svg",
     "assets/images/tbone.svg"
   ],
-  "heroImage": "assets/images/sirloin.svg",
-  "aboutImage": "assets/images/interior.svg",
+  "heroImage": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2lybG9pbkdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNWMxYTFhO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxYTBhMGE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0idXJsKCNzaXJsb2luR3JhZCkiLz4KICA8ZWxsaXBzZSBjeD0iNDAwIiBjeT0iMzIwIiByeD0iMjIwIiByeT0iMTQwIiBmaWxsPSIjOEI0NTEzIiBvcGFjaXR5PSIwLjYiLz4KICA8ZWxsaXBzZSBjeD0iMzgwIiBjeT0iMzAwIiByeD0iMTgwIiByeT0iMTEwIiBmaWxsPSIjQTA1MjJEIiBvcGFjaXR5PSIwLjciLz4KICA8dGV4dCB4PSI0MDAiIHk9IjI5MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjRjVGNURDIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4zMDBnIFNpcmxvaW48L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q0QUYzNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UmVwbGFjZSB3aXRoIHJlYWwgZm9vZCBwaG90bzwvdGV4dD4KPC9zdmc+Cg==",
+  "aboutImage": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjEwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImludGVyaW9yR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMyYTFhMWE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBmMGEwYTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMTAwMCIgZmlsbD0idXJsKCNpbnRlcmlvckdyYWQpIi8+CiAgPHJlY3QgeD0iMTAwIiB5PSI3MDAiIHdpZHRoPSI2MDAiIGhlaWdodD0iMjAiIGZpbGw9IiM1YzNhM2EiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjMwMCIgcj0iNDAiIGZpbGw9IiNENEFGMzciIG9wYWNpdHk9IjAuMiIvPgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjI1MCIgcj0iNTAiIGZpbGw9IiNENEFGMzciIG9wYWNpdHk9IjAuMTUiLz4KICA8cmVjdCB4PSIxNTAiIHk9IjU1MCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiIHJ4PSIxMCIgZmlsbD0iIzhCNDUxMyIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iMzUwIiB5PSI1MjAiIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiByeD0iMTAiIGZpbGw9IiM4QjQ1MTMiIG9wYWNpdHk9IjAuMyIvPgogIDxyZWN0IHg9IjU1MCIgeT0iNTUwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgcng9IjEwIiBmaWxsPSIjOEI0NTEzIiBvcGFjaXR5PSIwLjMiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQ5MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjRjVGNURDIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5JbnRlcmlvciBQaG90bzwvdGV4dD4KICA8dGV4dCB4PSI0MDAiIHk9IjUzMCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjRDRBRjM3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5SZXBsYWNlIHdpdGggcmVhbCByZXN0YXVyYW50IGludGVyaW9yPC90ZXh0Pgo8L3N2Zz4K",
   "testimonials": [
     {
       "text": "Best steak I've had in Cape Town. The waterfront view makes it even better.",
