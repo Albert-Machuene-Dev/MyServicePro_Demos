@@ -25,33 +25,62 @@
       "name": "Breakfast",
       "items": [
         {
-          "name": "Eggs Benedict",
-          "description": "Start your day with classic eggs benedict as the sun rises over Table Mountain.",
-          "price": "R115",
+          "name": "The Florentine",
+          "description": "Smoked trout, baby spinach, and poached eggs adorned with Mornay sauce and salmon roe, served on sourdough.",
+          "price": "R145",
           "image": "/assets/images/breakfast.svg"
         },
         {
-          "name": "Full Coastal Breakfast",
-          "description": "A hearty spread with local flavours, perfect for a relaxed morning by the sea.",
-          "price": "R135",
+          "name": "The Jonkershuis",
+          "description": "Crispy pork belly meets hummus and poached egg, complemented by field mushroom and pesto.",
+          "price": "R155",
           "image": "/assets/images/breakfast.svg"
         }
       ]
     },
     {
-      "name": "Lunch & Dinner",
+      "name": "Starters",
       "items": [
         {
-          "name": "Cape Seafood Platter",
-          "description": "The best of Cape Seafood Cuisine with a modern twist, served with panoramic ocean views.",
-          "price": "R295",
+          "name": "West Coast Oysters",
+          "description": "Fresh oysters served with pickled shallots or a fragrant touch of fennel pollen.",
+          "price": "R165",
           "image": "/assets/images/seafood-platter.svg"
         },
         {
-          "name": "Grilled Line Fish",
-          "description": "Fresh catch of the day, simply grilled and paired with seasonal sides.",
-          "price": "R185",
+          "name": "Tempura Prawns",
+          "description": "Crispy prawns balanced with smoked salmon and a zingy lime dressing.",
+          "price": "R145",
+          "image": "/assets/images/seafood-platter.svg"
+        }
+      ]
+    },
+    {
+      "name": "Mains",
+      "items": [
+        {
+          "name": "Cape Malay Seafood Curry",
+          "description": "Kingklip and prawns in a fragrant curry, accompanied by jasmine rice, tomato sambal, and raita.",
+          "price": "R245",
           "image": "/assets/images/line-fish.svg"
+        },
+        {
+          "name": "Seafood Paella",
+          "description": "A medley of prawns, mussels, calamari, and the rich zest of chorizo.",
+          "price": "R285",
+          "image": "/assets/images/seafood-platter.svg"
+        },
+        {
+          "name": "Dry Aged Beef Fillet",
+          "description": "Enhanced with tarragon butter, served with seasonal trimmings.",
+          "price": "R295",
+          "image": "/assets/images/hero-ocean.svg"
+        },
+        {
+          "name": "Herb & Mint Crusted Rack of Lamb",
+          "description": "Beautifully complemented by fondant potato and charred baby marrow.",
+          "price": "R275",
+          "image": "/assets/images/hero-ocean.svg"
         }
       ]
     },
@@ -59,16 +88,16 @@
       "name": "Desserts",
       "items": [
         {
-          "name": "Flourless Chocolate Cake",
-          "description": "Decadently served with salted caramel popcorn and crème fraîche.",
-          "price": "R85",
-          "image": "/assets/images/chocolate-cake.svg"
-        },
-        {
           "name": "Cape Velvet Panna Cotta",
           "description": "Poached plums, almond soil, and an On the Rocks twist.",
-          "price": "R80",
+          "price": "R95",
           "image": "/assets/images/panna-cotta.svg"
+        },
+        {
+          "name": "Flourless Chocolate Cake",
+          "description": "Decadently served with salted caramel popcorn and crème fraîche.",
+          "price": "R95",
+          "image": "/assets/images/chocolate-cake.svg"
         }
       ]
     }
@@ -76,6 +105,7 @@
   "gallery": [
     "/assets/images/hero-ocean.svg",
     "/assets/images/seafood-platter.svg",
+    "/assets/images/line-fish.svg",
     "/assets/images/breakfast.svg",
     "/assets/images/chocolate-cake.svg"
   ],
