@@ -43,7 +43,7 @@ function GallerySection() {
                 alt={`Gallery image ${index + 1}`}
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 onError={(e) => {
-                  e.target.src = '/assets/images/placeholder-interior.svg'
+                  e.target.src = 'assets/images/placeholder-interior.svg'
                 }}
               />
               <div className="absolute inset-0 bg-dark/0 group-hover:bg-dark/40 transition-all" />

@@ -59,7 +59,7 @@ function MenuSection({ onOrder }) {
                   alt={item.name}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                   onError={(e) => {
-                    e.target.src = '/assets/images/placeholder-food.svg'
+                    e.target.src = 'assets/images/placeholder-food.svg'
                   }}
                 />
               </div>
