@@ -28,13 +28,13 @@
           "name": "Eggs Benedict",
           "description": "Start your day with classic eggs benedict as the sun rises over Table Mountain.",
           "price": "R115",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/breakfast.svg"
         },
         {
           "name": "Full Coastal Breakfast",
           "description": "A hearty spread with local flavours, perfect for a relaxed morning by the sea.",
           "price": "R135",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/breakfast.svg"
         }
       ]
     },
@@ -45,13 +45,13 @@
           "name": "Cape Seafood Platter",
           "description": "The best of Cape Seafood Cuisine with a modern twist, served with panoramic ocean views.",
           "price": "R295",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/seafood-platter.svg"
         },
         {
           "name": "Grilled Line Fish",
           "description": "Fresh catch of the day, simply grilled and paired with seasonal sides.",
           "price": "R185",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/line-fish.svg"
         }
       ]
     },
@@ -62,22 +62,22 @@
           "name": "Flourless Chocolate Cake",
           "description": "Decadently served with salted caramel popcorn and crème fraîche.",
           "price": "R85",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/chocolate-cake.svg"
         },
         {
           "name": "Cape Velvet Panna Cotta",
           "description": "Poached plums, almond soil, and an On the Rocks twist.",
           "price": "R80",
-          "image": "/assets/images/placeholder-food.svg"
+          "image": "/assets/images/panna-cotta.svg"
         }
       ]
     }
   ],
   "gallery": [
-    "/assets/images/placeholder-interior.svg",
-    "/assets/images/placeholder-food.svg",
-    "/assets/images/placeholder-food.svg",
-    "/assets/images/placeholder-food.svg"
+    "/assets/images/hero-ocean.svg",
+    "/assets/images/seafood-platter.svg",
+    "/assets/images/breakfast.svg",
+    "/assets/images/chocolate-cake.svg"
   ],
   "testimonials": [
     {
@@ -89,6 +89,6 @@
       "author": "Cape Town Foodie"
     }
   ],
-  "heroImage": "/assets/images/placeholder-interior.svg",
-  "aboutImage": "/assets/images/placeholder-interior.svg"
+  "heroImage": "/assets/images/hero-ocean.svg",
+  "aboutImage": "/assets/images/hero-ocean.svg"
 }
