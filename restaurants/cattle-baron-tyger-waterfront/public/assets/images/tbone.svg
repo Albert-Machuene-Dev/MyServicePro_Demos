@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tboneGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0808;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#tboneGrad)"/>
+  <rect x="260" y="240" width="280" height="40" rx="20" fill="#CD853F" opacity="0.7" transform="rotate(-15 400 260)"/>
+  <rect x="300" y="280" width="240" height="40" rx="20" fill="#A0522D" opacity="0.7" transform="rotate(15 420 300)"/>
+  <text x="400" y="290" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">500g T-Bone</text>
+  <text x="400" y="340" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

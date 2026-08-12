@@ -1,0 +1,103 @@
+{
+  "name": "Cattle Baron Tyger Waterfront",
+  "slug": "cattle-baron-tyger-waterfront",
+  "tagline": "Legendary Steaks. Unforgettable Waterfront Views.",
+  "description": "For over two decades, Cattle Baron Tyger Waterfront has been serving premium flame-grilled steaks, fresh seafood, and warm South African hospitality. Perched on the water's edge, we combine breathtaking views with a menu built for meat lovers and food enthusiasts alike.",
+  "location": "Tyger Waterfront, Bellville, Cape Town",
+  "phone": "+27 21 914 1021",
+  "email": "tygerwaterfront@cattlebaron.co.za",
+  "social": {
+    "instagram": "https://instagram.com/cattlebaron",
+    "facebook": "https://facebook.com/cattlebaron"
+  },
+  "theme": {
+    "primary": "#8B0000",
+    "secondary": "#F5F5DC",
+    "accent": "#D4AF37",
+    "dark": "#1A1A1A",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    { "day": "Mon–Thu", "time": "12:00 – 22:00" },
+    { "day": "Fri–Sat", "time": "12:00 – 23:00" },
+    { "day": "Sunday", "time": "12:00 – 21:00" }
+  ],
+  "menuCategories": [
+    {
+      "name": "Signature Steaks",
+      "items": [
+        {
+          "name": "300g Sirloin",
+          "description": "Aged for 28 days, flame-grilled to your liking, served with roasted vegetables and hand-cut chips.",
+          "price": "R189",
+          "image": "/assets/images/sirloin.svg"
+        },
+        {
+          "name": "500g T-Bone",
+          "description": "The ultimate steak lover's cut. Bold flavor, perfect char, basted in our signature basting.",
+          "price": "R249",
+          "image": "/assets/images/tbone.svg"
+        },
+        {
+          "name": "Slow-Cooked Ribs",
+          "description": "Tender pork ribs basted in a smoky BBQ glaze, falling off the bone.",
+          "price": "R215",
+          "image": "/assets/images/ribs.svg"
+        }
+      ]
+    },
+    {
+      "name": "Seafood & More",
+      "items": [
+        {
+          "name": "Grilled Kingklip",
+          "description": "Line-fresh kingklip, lemon butter sauce, seasonal greens, and herb rice.",
+          "price": "R195",
+          "image": "/assets/images/seafood.svg"
+        },
+        {
+          "name": "Baron Burger",
+          "description": "Double patty, aged cheddar, caramelized onions, crispy bacon, and house sauce.",
+          "price": "R145",
+          "image": "/assets/images/burger.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "items": [
+        {
+          "name": "Hand-Cut Chips",
+          "description": "Crispy, golden, and perfectly salted.",
+          "price": "R45",
+          "image": "/assets/images/chips.svg"
+        },
+        {
+          "name": "Creamed Spinach",
+          "description": "Rich, creamy, and the perfect partner to any steak.",
+          "price": "R42",
+          "image": "/assets/images/spinach.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "/assets/images/interior.svg",
+    "/src/assets/images/sirloin.svg",
+    "/assets/images/seafood.svg",
+    "/assets/images/ribs.svg",
+    "/assets/images/tbone.svg"
+  ],
+  "heroImage": "/assets/images/sirloin.svg",
+  "aboutImage": "/assets/images/interior.svg",
+  "testimonials": [
+    {
+      "text": "Best steak I've had in Cape Town. The waterfront view makes it even better.",
+      "author": "Sarah M."
+    },
+    {
+      "text": "Our go-to spot for family celebrations. Consistently excellent.",
+      "author": "The Petersen Family"
+    }
+  ]
+}

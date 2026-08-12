@@ -1,0 +1,14 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="burgerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3d1d0d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#burgerGrad)"/>
+  <ellipse cx="400" cy="260" rx="160" ry="60" fill="#D2691E" opacity="0.8"/>
+  <rect x="250" y="260" width="300" height="40" fill="#228B22" opacity="0.8"/>
+  <ellipse cx="400" cy="320" rx="170" ry="50" fill="#A0522D" opacity="0.9"/>
+  <text x="400" y="430" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Baron Burger</text>
+  <text x="400" y="480" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

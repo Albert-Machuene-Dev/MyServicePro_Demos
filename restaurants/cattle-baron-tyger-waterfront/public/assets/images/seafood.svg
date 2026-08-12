@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="seafoodGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a4a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a1a22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#seafoodGrad)"/>
+  <ellipse cx="400" cy="300" rx="200" ry="120" fill="#F5F5DC" opacity="0.2"/>
+  <path d="M300 300 Q400 220 500 300" stroke="#FFD700" stroke-width="20" fill="none" opacity="0.6"/>
+  <text x="400" y="290" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Grilled Kingklip</text>
+  <text x="400" y="340" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

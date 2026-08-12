@@ -1,0 +1,60 @@
+{
+  "name": "Restaurant Name",
+  "slug": "restaurant-name",
+  "tagline": "Tagline that makes people hungry.",
+  "description": "A short, appetizing description of the restaurant, its ambiance, and what makes it special.",
+  "location": "Cape Town, South Africa",
+  "phone": "+27 21 555 0000",
+  "email": "info@restaurant.co.za",
+  "social": {
+    "instagram": "#",
+    "facebook": "#"
+  },
+  "theme": {
+    "primary": "#8B0000",
+    "secondary": "#F5F5DC",
+    "accent": "#D4AF37",
+    "dark": "#1A1A1A",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    { "day": "Mon–Thu", "time": "12:00 – 22:00" },
+    { "day": "Fri–Sat", "time": "12:00 – 23:00" },
+    { "day": "Sunday", "time": "12:00 – 21:00" }
+  ],
+  "menuCategories": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Sample Starter",
+          "description": "A delicious starter description that makes your mouth water.",
+          "price": "R85",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Mains",
+      "items": [
+        {
+          "name": "Signature Main",
+          "description": "The hero dish. Describe it with passion and detail.",
+          "price": "R189",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "/src/assets/images/placeholder-interior.jpg"
+  ],
+  "heroImage": "/assets/images/placeholder-food.svg",
+  "aboutImage": "/assets/images/placeholder-interior.svg",
+  "testimonials": [
+    {
+      "text": "An absolutely unforgettable dining experience.",
+      "author": "Happy Customer"
+    }
+  ]
+}
