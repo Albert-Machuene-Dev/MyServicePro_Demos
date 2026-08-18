@@ -1,0 +1,139 @@
+{
+  "name": "Duck Duck Goose",
+  "slug": "duck-duck-goose",
+  "tagline": "Curated SA Fashion & Lifestyle",
+  "description": "A warm, inviting and unintimidating concept store celebrating South African design and culture. We curate independently owned SA fashion and lifestyle brands alongside international labels, from graphic tees to homeware.",
+  "location": "120 Bree Street, Cape Town City Centre",
+  "phone": "",
+  "email": "info@duckduckgoosestore.com",
+  "social": {
+    "instagram": "https://instagram.com/duckduckgoosestore",
+    "facebook": ""
+  },
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#A3A3A3",
+    "accent": "#FFFFFF",
+    "dark": "#000000",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    {
+      "day": "Monday",
+      "time": "10:00 - 17:00"
+    },
+    {
+      "day": "Tuesday - Friday",
+      "time": "10:00 - 18:00"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:00 - 15:00"
+    },
+    {
+      "day": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "menuCategories": [
+    {
+      "name": "Signature Tees",
+      "items": [
+        {
+          "name": "Duck Logo Tee",
+          "description": "Signature graphic tee with the iconic duck logo. Heavyweight cotton, gender-neutral fit.",
+          "price": "R1,280",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "1995 Rugby Replica Tee",
+          "description": "SA/NZ/France inspired rugby replica collection tee. Heritage sportswear reimagined.",
+          "price": "R1,500",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Good Good Good Heavy Tee",
+          "description": "Anchor brand heavyweight tee. Made in our Woodstock factory.",
+          "price": "R950",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Outerwear & Jackets",
+      "items": [
+        {
+          "name": "Balloon Trousers",
+          "description": "Signature relaxed-fit balloon trousers. Comfortable, stylish, locally made.",
+          "price": "R1,800",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Waxed Canvas Jacket",
+          "description": "Durable waxed canvas jacket with brass hardware. Built to last.",
+          "price": "R3,200",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kids Collection",
+      "items": [
+        {
+          "name": "Kids Duck Tee",
+          "description": "Mini version of our signature tee. Soft cotton, playful design.",
+          "price": "R450",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Kids Denim Jacket",
+          "description": "Classic denim jacket for the little ones. Adjustable fit.",
+          "price": "R890",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Lifestyle & Homeware",
+      "items": [
+        {
+          "name": "Bird-Call Whistle",
+          "description": "Handcrafted bird-call whistle. A playful nod to our name.",
+          "price": "R180",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Coffee Table Book",
+          "description": "Curated selection of SA design and culture books.",
+          "price": "R650",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Ceramic Mug",
+          "description": "Locally made ceramic mug with duck motif.",
+          "price": "R220",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg"
+  ],
+  "testimonials": [
+    {
+      "text": "A warm, inviting space that celebrates SA design.",
+      "author": "Cape Town CCID"
+    },
+    {
+      "text": "The best curated fashion store in Cape Town.",
+      "author": "Time Out Cape Town"
+    }
+  ],
+  "heroImage": "",
+  "aboutImage": "",
+  "heroVideo": ""
+}

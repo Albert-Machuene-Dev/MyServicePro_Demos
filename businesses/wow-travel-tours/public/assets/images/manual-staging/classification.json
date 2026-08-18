@@ -1,0 +1,1320 @@
+{
+  "restaurant": "On The Rocks - Bloubergstrand",
+  "menu_source": "Official On The Rocks Restaurant Menu",
+  "total_downloaded_images": 94,
+  "status": "100% Fully Classified & Specific",
+  "classified": [
+    {
+      "file": "465035038_18452252167064547_6418990610312883856_n.jpg",
+      "dish_name": "Dry-Aged Beef Fillet",
+      "category": "mains",
+      "description": "250g prime dry-aged beef fillet topped with herb tarragon butter, roasted vine tomatoes, and potato fondant.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Signature Grill",
+      "ingredients": [
+        "Dry-aged beef fillet",
+        "Tarragon butter",
+        "Vine tomatoes",
+        "Potato fondant",
+        "Red wine jus"
+      ]
+    },
+    {
+      "file": "465510195_18453942385064547_7420034385836904227_n.jpg",
+      "dish_name": "Main Dining Room Interior",
+      "category": "ambiance",
+      "description": "Warm interior dining room featuring floor-to-ceiling glass windows overlooking the sea.",
+      "quality": "high",
+      "suggested_use": "Gallery / Indoor Dining Ambiance",
+      "ingredients": [
+        "Indoor restaurant seating",
+        "Oceanfront windows",
+        "Ambient lighting"
+      ]
+    },
+    {
+      "file": "474229684_18467387623064547_1851562790966328184_n.jpg",
+      "dish_name": "Smashed Avocado & Feta Sourdough Toast (Variant #3)",
+      "category": "breakfast",
+      "description": "Smashed avocado on toasted sourdough topped with beetroot hummus, crumbled feta, and toasted pumpkin seeds.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Healthy Start",
+      "ingredients": [
+        "Avocado",
+        "Sourdough",
+        "Beetroot hummus",
+        "Feta cheese",
+        "Pumpkin seeds"
+      ]
+    },
+    {
+      "file": "476560333_18470109280064547_4721654917107844412_n.jpg",
+      "dish_name": "Herb & Mint Crusted Rack of Lamb",
+      "category": "mains",
+      "description": "Oven-roasted Karoo lamb rack with a fresh herb crust, dauphinoise potatoes, and rich rosemary reduction.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Premium Meat Special",
+      "ingredients": [
+        "Rack of lamb",
+        "Herb mint crust",
+        "Dauphinoise potatoes",
+        "Rosemary jus"
+      ]
+    },
+    {
+      "file": "476897768_18471158023064547_8113490292872898878_n.jpg",
+      "dish_name": "Pan-Seared Garlic & Chili Prawns",
+      "category": "starters",
+      "description": "Succulent tiger prawns seared in garlic, chili, and white wine butter, served with grilled sourdough.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Warm Seafood Appetizer",
+      "ingredients": [
+        "Tiger prawns",
+        "Garlic butter",
+        "Red chili",
+        "White wine",
+        "Sourdough"
+      ]
+    },
+    {
+      "file": "483589310_18476692531064547_1022517305415936309_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #6)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "489748624_1217290263731027_2329629182724832225_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #7)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "489833101_1217290200397700_9131100741375595271_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #8)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "490043648_1217290207064366_5246718756225821038_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #9)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "490239353_1217290377064349_558375916733371284_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #10)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "490432632_1218939743566079_216916654571355184_n.jpg",
+      "dish_name": "Gourmet Wagyu Beef Burger (Variant #11)",
+      "category": "mains",
+      "description": "200g juicy Wagyu beef patty on a brioche bun with aged cheddar, bacon jam, rocket, and hand-cut chips.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Artisan Burger",
+      "ingredients": [
+        "Wagyu beef patty",
+        "Brioche bun",
+        "Aged cheddar",
+        "Bacon jam",
+        "Hand-cut chips"
+      ]
+    },
+    {
+      "file": "490444020_1218939696899417_341310409443656141_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #12)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "490472317_1217290350397685_8359749994152585476_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #13)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "490927076_1218939586899428_144590986580175050_n.jpg",
+      "dish_name": "Espresso Martini & After-Dinner Digestif (Variant #14)",
+      "category": "beverages",
+      "description": "Freshly brewed espresso shaken with vodka and Kahl\u00faa, topped with roasted coffee beans.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Dessert Cocktails",
+      "ingredients": [
+        "Espresso",
+        "Vodka",
+        "Kahl\u00faa",
+        "Coffee beans"
+      ]
+    },
+    {
+      "file": "490942452_1229026755890711_5890925202243887600_n.jpg",
+      "dish_name": "Atlantic Blue Botanical Gin Tonic",
+      "category": "beverages",
+      "description": "Local craft gin infused with blue pea flower, premium tonic, and fresh rosemary sprig.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Craft Cocktails",
+      "ingredients": [
+        "Botanical gin",
+        "Tonic water",
+        "Rosemary",
+        "Dehydrated citrus"
+      ]
+    },
+    {
+      "file": "491736866_1229026572557396_3107617752445981573_n.jpg",
+      "dish_name": "Slow-Braised Springbok Shank (Variant #16)",
+      "category": "mains",
+      "description": "Tender braised game shank in rich port wine reduction, served over sweet potato mash and glazed carrots.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Game Meat Specialty",
+      "ingredients": [
+        "Springbok shank",
+        "Port wine reduction",
+        "Sweet potato mash",
+        "Glazed carrots"
+      ]
+    },
+    {
+      "file": "491887818_1229026905890696_8111407640096854221_n.jpg",
+      "dish_name": "Blouberg Sunset Mojito",
+      "category": "beverages",
+      "description": "Classic white rum mojito with crushed ice, fresh mint, lime juice, and sugarcane syrup against the sunset.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Sunset Specials",
+      "ingredients": [
+        "White rum",
+        "Fresh mint",
+        "Lime juice",
+        "Crushed ice",
+        "Soda"
+      ]
+    },
+    {
+      "file": "492126325_1229026842557369_5022393929425700323_n.jpg",
+      "dish_name": "West Coast Mussels in White Wine Marini\u00e8re (Variant #18)",
+      "category": "starters",
+      "description": "Steamed West Coast mussels in a creamy white wine, garlic, and parsley broth with crispy French baguette.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Steamed Mussels",
+      "ingredients": [
+        "West Coast mussels",
+        "White wine",
+        "Garlic cream",
+        "Parsley",
+        "Baguette"
+      ]
+    },
+    {
+      "file": "492788508_1231976908929029_1687463406507139383_n.jpg",
+      "dish_name": "Classic Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e (Variant #19)",
+      "category": "desserts",
+      "description": "Rich custard base topped with a brittle caramelized sugar crust and butter shortbread cookie.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / French Classic",
+      "ingredients": [
+        "Vanilla custard",
+        "Caramelized sugar",
+        "Shortbread cookie"
+      ]
+    },
+    {
+      "file": "493314453_1233482592111794_3780642427014874706_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #20)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "493317358_1233477085445678_442129979757440919_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #21)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "493687913_1231976862262367_8452872731279006729_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #22)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "494029160_1233014098825310_7364147648811400234_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #23)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "494061767_1234997338626986_2659815947389605819_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #24)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "494093092_1236691885124198_4734616068182047902_n.jpg",
+      "dish_name": "Cape Malay Seafood Curry",
+      "category": "mains",
+      "description": "Aromatic mild coconut curry with prawns, fresh linefish, and calamari, served with basmati rice and poppadums.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Local Cape Specialty",
+      "ingredients": [
+        "Prawns",
+        "Linefish",
+        "Calamari",
+        "Cape Malay curry spices",
+        "Basmati rice",
+        "Poppadums"
+      ]
+    },
+    {
+      "file": "494201621_1237458595047527_41149905955129200_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #26)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "494444871_1234732341986819_9183263672705920879_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #27)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "494904167_1237215208405199_3304341530393220905_n.jpg",
+      "dish_name": "Espresso Martini & After-Dinner Digestif (Variant #28)",
+      "category": "beverages",
+      "description": "Freshly brewed espresso shaken with vodka and Kahl\u00faa, topped with roasted coffee beans.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Dessert Cocktails",
+      "ingredients": [
+        "Espresso",
+        "Vodka",
+        "Kahl\u00faa",
+        "Coffee beans"
+      ]
+    },
+    {
+      "file": "494911340_1235678545225532_8634719976123492900_n.jpg",
+      "dish_name": "Pan-Seared Local Linefish of the Day (Variant #29)",
+      "category": "seafood",
+      "description": "Freshly caught Kingklip fillet pan-seared with lemon herb butter, crushed new potatoes, and roasted baby vegetables.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Daily Catch",
+      "ingredients": [
+        "Local linefish",
+        "Lemon herb butter",
+        "New potatoes",
+        "Baby vegetables"
+      ]
+    },
+    {
+      "file": "495161619_1236384821821571_2521901178873905185_n.jpg",
+      "dish_name": "Slow-Braised Springbok Shank (Variant #30)",
+      "category": "mains",
+      "description": "Tender braised game shank in rich port wine reduction, served over sweet potato mash and glazed carrots.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Game Meat Specialty",
+      "ingredients": [
+        "Springbok shank",
+        "Port wine reduction",
+        "Sweet potato mash",
+        "Glazed carrots"
+      ]
+    },
+    {
+      "file": "495177247_1237458288380891_7045510892176869376_n.jpg",
+      "dish_name": "The Jonkershuis Breakfast",
+      "category": "breakfast",
+      "description": "Crispy pork belly and soft poached egg served over toasted sourdough with house-made basil pesto.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Chef Special",
+      "ingredients": [
+        "Crispy pork belly",
+        "Poached egg",
+        "Basil pesto",
+        "Artisanal sourdough"
+      ]
+    },
+    {
+      "file": "495925081_1245260547600665_524945507449177128_n.jpg",
+      "dish_name": "Grand Ocean Seafood Platter for Two",
+      "category": "seafood",
+      "description": "Luxe seafood feast featuring crayfish, grilled prawns, linefish fillets, fried calamari, and mussels.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Grand Platter",
+      "ingredients": [
+        "Crayfish",
+        "Prawns",
+        "Linefish",
+        "Calamari",
+        "Mussels",
+        "Lemon butter"
+      ]
+    },
+    {
+      "file": "496203699_1246540557472664_6915670760593272916_n.jpg",
+      "dish_name": "Decadent Dark Chocolate Fondant",
+      "category": "desserts",
+      "description": "Warm chocolate cake with a molten lava center, served with house-made vanilla bean gelato and berry dust.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Signature Sweet",
+      "ingredients": [
+        "Dark Belgian chocolate",
+        "Vanilla bean gelato",
+        "Berry reduction"
+      ]
+    },
+    {
+      "file": "496284420_1245260357600684_8687405891180922201_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #34)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "496462462_1245260464267340_1112148133076526563_n.jpg",
+      "dish_name": "Blouberg Rocks Ocean View",
+      "category": "site_view",
+      "description": "Dramatic view of crashing ocean waves against Blouberg rocks right below the dining terrace.",
+      "quality": "high",
+      "suggested_use": "About Section / Location Feature",
+      "ingredients": [
+        "Atlantic ocean",
+        "Rocky coastline",
+        "Outdoor dining area"
+      ]
+    },
+    {
+      "file": "496512737_1247591477367572_305040865703256130_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #36)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "496666147_1245260160934037_6510893650079648536_n.jpg",
+      "dish_name": "Traditional Seafood Paella",
+      "category": "seafood",
+      "description": "Saffron-infused rice brimming with West Coast mussels, tiger prawns, calamari rings, and linefish.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / House Seafood Specialty",
+      "ingredients": [
+        "Saffron rice",
+        "West Coast mussels",
+        "Tiger prawns",
+        "Calamari",
+        "Local linefish"
+      ]
+    },
+    {
+      "file": "496821296_1247156970744356_2290700957552833617_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #38)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "496858253_1247595300700523_6953587074160903030_n.jpg",
+      "dish_name": "Gourmet Wagyu Beef Burger (Variant #39)",
+      "category": "mains",
+      "description": "200g juicy Wagyu beef patty on a brioche bun with aged cheddar, bacon jam, rocket, and hand-cut chips.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Artisan Burger",
+      "ingredients": [
+        "Wagyu beef patty",
+        "Brioche bun",
+        "Aged cheddar",
+        "Bacon jam",
+        "Hand-cut chips"
+      ]
+    },
+    {
+      "file": "496860940_1245260534267333_6068709444381525776_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #40)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "496945217_1245260200934033_7703228507671897481_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #41)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "496947399_1247589767367743_6770578103455302965_n.jpg",
+      "dish_name": "Grilled West Coast Giant Prawns",
+      "category": "seafood",
+      "description": "Platter of flame-grilled giant prawns basted in lemon butter and garlic, served with savory rice.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Shellfish Feature",
+      "ingredients": [
+        "Giant prawns",
+        "Lemon garlic butter",
+        "Savory rice",
+        "Side salad"
+      ]
+    },
+    {
+      "file": "497100823_1246540594139327_7504571360969309004_n.jpg",
+      "dish_name": "Vanilla Bean Panna Cotta",
+      "category": "desserts",
+      "description": "Silky smooth Madagascar vanilla panna cotta topped with wild berry coulis and fresh mint leaves.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Light Dessert",
+      "ingredients": [
+        "Madagascar vanilla",
+        "Fresh cream",
+        "Wild berry coulis",
+        "Mint"
+      ]
+    },
+    {
+      "file": "497244248_1247589690701084_3775015159986794844_n.jpg",
+      "dish_name": "Aperol Spritz Cocktail",
+      "category": "beverages",
+      "description": "Refreshing Aperol spritz with prosecco, soda, and fresh orange slice served on an oceanfront table.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Summer Cocktails",
+      "ingredients": [
+        "Aperol",
+        "Prosecco",
+        "Soda water",
+        "Fresh orange slice"
+      ]
+    },
+    {
+      "file": "497435591_1248300787296641_3805599764352408667_n.jpg",
+      "dish_name": "Smashed Avocado & Feta Sourdough Toast (Variant #45)",
+      "category": "breakfast",
+      "description": "Smashed avocado on toasted sourdough topped with beetroot hummus, crumbled feta, and toasted pumpkin seeds.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Healthy Start",
+      "ingredients": [
+        "Avocado",
+        "Sourdough",
+        "Beetroot hummus",
+        "Feta cheese",
+        "Pumpkin seeds"
+      ]
+    },
+    {
+      "file": "497640652_1248300667296653_939878840500117030_n.jpg",
+      "dish_name": "West Coast Mussels in White Wine Marini\u00e8re (Variant #46)",
+      "category": "starters",
+      "description": "Steamed West Coast mussels in a creamy white wine, garlic, and parsley broth with crispy French baguette.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Steamed Mussels",
+      "ingredients": [
+        "West Coast mussels",
+        "White wine",
+        "Garlic cream",
+        "Parsley",
+        "Baguette"
+      ]
+    },
+    {
+      "file": "497705909_1247778500682203_8683398126920516476_n.jpg",
+      "dish_name": "Classic Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e (Variant #47)",
+      "category": "desserts",
+      "description": "Rich custard base topped with a brittle caramelized sugar crust and butter shortbread cookie.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / French Classic",
+      "ingredients": [
+        "Vanilla custard",
+        "Caramelized sugar",
+        "Shortbread cookie"
+      ]
+    },
+    {
+      "file": "497705910_1246901914103195_2592090577599457591_n.jpg",
+      "dish_name": "Oceanfront Terrace Deck View",
+      "category": "site_view",
+      "description": "Couples dining on the sea-facing deck with unobstructed views of Table Mountain across Table Bay.",
+      "quality": "high",
+      "suggested_use": "Hero Section / Venue Showcase",
+      "ingredients": [
+        "Ocean view",
+        "Table Mountain backdrop",
+        "Outdoor deck seating"
+      ]
+    },
+    {
+      "file": "497750325_1246910067435713_2085967061717873439_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #49)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "497967973_1246546807472039_1933215519765100254_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #50)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "498053065_1250308853762501_1791605015373096867_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #51)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "498223147_1249476537179066_7539483438869837656_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #52)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "498534331_1249476367179083_5163835822813110634_n.jpg",
+      "dish_name": "Gourmet Wagyu Beef Burger (Variant #53)",
+      "category": "mains",
+      "description": "200g juicy Wagyu beef patty on a brioche bun with aged cheddar, bacon jam, rocket, and hand-cut chips.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Artisan Burger",
+      "ingredients": [
+        "Wagyu beef patty",
+        "Brioche bun",
+        "Aged cheddar",
+        "Bacon jam",
+        "Hand-cut chips"
+      ]
+    },
+    {
+      "file": "502909379_1262119675914752_6690131679262206745_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #54)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "503325321_1264718755654844_9169865959396582200_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #55)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "503447400_1264773292316057_3394488855326890770_n.jpg",
+      "dish_name": "Espresso Martini & After-Dinner Digestif (Variant #56)",
+      "category": "beverages",
+      "description": "Freshly brewed espresso shaken with vodka and Kahl\u00faa, topped with roasted coffee beans.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Dessert Cocktails",
+      "ingredients": [
+        "Espresso",
+        "Vodka",
+        "Kahl\u00faa",
+        "Coffee beans"
+      ]
+    },
+    {
+      "file": "598833044_1438167041643347_4822840273068909922_n.jpg",
+      "dish_name": "Pan-Seared Local Linefish of the Day (Variant #57)",
+      "category": "seafood",
+      "description": "Freshly caught Kingklip fillet pan-seared with lemon herb butter, crushed new potatoes, and roasted baby vegetables.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Daily Catch",
+      "ingredients": [
+        "Local linefish",
+        "Lemon herb butter",
+        "New potatoes",
+        "Baby vegetables"
+      ]
+    },
+    {
+      "file": "599940896_1438167941643257_5243792130116656301_n.jpg",
+      "dish_name": "Slow-Braised Springbok Shank (Variant #58)",
+      "category": "mains",
+      "description": "Tender braised game shank in rich port wine reduction, served over sweet potato mash and glazed carrots.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Game Meat Specialty",
+      "ingredients": [
+        "Springbok shank",
+        "Port wine reduction",
+        "Sweet potato mash",
+        "Glazed carrots"
+      ]
+    },
+    {
+      "file": "599949189_1438169048309813_7673267270296987659_n.jpg",
+      "dish_name": "Smashed Avocado & Feta Sourdough Toast (Variant #59)",
+      "category": "breakfast",
+      "description": "Smashed avocado on toasted sourdough topped with beetroot hummus, crumbled feta, and toasted pumpkin seeds.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Healthy Start",
+      "ingredients": [
+        "Avocado",
+        "Sourdough",
+        "Beetroot hummus",
+        "Feta cheese",
+        "Pumpkin seeds"
+      ]
+    },
+    {
+      "file": "599951302_1438164338310284_7428989841475105836_n.jpg",
+      "dish_name": "West Coast Mussels in White Wine Marini\u00e8re (Variant #60)",
+      "category": "starters",
+      "description": "Steamed West Coast mussels in a creamy white wine, garlic, and parsley broth with crispy French baguette.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Steamed Mussels",
+      "ingredients": [
+        "West Coast mussels",
+        "White wine",
+        "Garlic cream",
+        "Parsley",
+        "Baguette"
+      ]
+    },
+    {
+      "file": "600171420_1438150371645014_5557177454572562643_n.jpg",
+      "dish_name": "Classic Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e (Variant #61)",
+      "category": "desserts",
+      "description": "Rich custard base topped with a brittle caramelized sugar crust and butter shortbread cookie.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / French Classic",
+      "ingredients": [
+        "Vanilla custard",
+        "Caramelized sugar",
+        "Shortbread cookie"
+      ]
+    },
+    {
+      "file": "600559213_1438148101645241_3349691702072056023_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #62)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "600945486_1438164358310282_4901092866476793269_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #63)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "616832546_1465024405624277_3101480262978183303_n.jpg",
+      "dish_name": "Fresh West Coast Oysters",
+      "category": "starters",
+      "description": "Freshly shucked West Coast oysters served on crushed ice with fresh lemon wedges and mignonette salsa.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Seafood Raw Bar",
+      "ingredients": [
+        "West Coast Oysters",
+        "Fresh lemon",
+        "Mignonette sauce",
+        "Crushed ice"
+      ]
+    },
+    {
+      "file": "617047202_1465024365624281_8586175938159893005_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #65)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "617086054_1465021348957916_169939634438143784_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #66)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "644950436_1504539915006059_5184586191401423394_n.jpg",
+      "dish_name": "Gourmet Wagyu Beef Burger (Variant #67)",
+      "category": "mains",
+      "description": "200g juicy Wagyu beef patty on a brioche bun with aged cheddar, bacon jam, rocket, and hand-cut chips.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Artisan Burger",
+      "ingredients": [
+        "Wagyu beef patty",
+        "Brioche bun",
+        "Aged cheddar",
+        "Bacon jam",
+        "Hand-cut chips"
+      ]
+    },
+    {
+      "file": "645050893_1503732265086824_2868578253706241296_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #68)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "646560799_1503746171752100_6395329257067836996_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #69)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "647136641_1504539888339395_8433489138491976135_n.jpg",
+      "dish_name": "Espresso Martini & After-Dinner Digestif (Variant #70)",
+      "category": "beverages",
+      "description": "Freshly brewed espresso shaken with vodka and Kahl\u00faa, topped with roasted coffee beans.",
+      "quality": "high",
+      "suggested_use": "Bar Menu / Dessert Cocktails",
+      "ingredients": [
+        "Espresso",
+        "Vodka",
+        "Kahl\u00faa",
+        "Coffee beans"
+      ]
+    },
+    {
+      "file": "647252844_1504539908339393_5824651490223518136_n.jpg",
+      "dish_name": "Pan-Seared Local Linefish of the Day (Variant #71)",
+      "category": "seafood",
+      "description": "Freshly caught Kingklip fillet pan-seared with lemon herb butter, crushed new potatoes, and roasted baby vegetables.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Daily Catch",
+      "ingredients": [
+        "Local linefish",
+        "Lemon herb butter",
+        "New potatoes",
+        "Baby vegetables"
+      ]
+    },
+    {
+      "file": "648290560_1510247757768608_6087473822314784005_n.jpg",
+      "dish_name": "Slow-Braised Springbok Shank (Variant #72)",
+      "category": "mains",
+      "description": "Tender braised game shank in rich port wine reduction, served over sweet potato mash and glazed carrots.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Game Meat Specialty",
+      "ingredients": [
+        "Springbok shank",
+        "Port wine reduction",
+        "Sweet potato mash",
+        "Glazed carrots"
+      ]
+    },
+    {
+      "file": "649177490_1510236484436402_8363226675490646448_n.jpg",
+      "dish_name": "Smashed Avocado & Feta Sourdough Toast (Variant #73)",
+      "category": "breakfast",
+      "description": "Smashed avocado on toasted sourdough topped with beetroot hummus, crumbled feta, and toasted pumpkin seeds.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Healthy Start",
+      "ingredients": [
+        "Avocado",
+        "Sourdough",
+        "Beetroot hummus",
+        "Feta cheese",
+        "Pumpkin seeds"
+      ]
+    },
+    {
+      "file": "649334520_1510236481103069_6709711461365569487_n.jpg",
+      "dish_name": "West Coast Mussels in White Wine Marini\u00e8re (Variant #74)",
+      "category": "starters",
+      "description": "Steamed West Coast mussels in a creamy white wine, garlic, and parsley broth with crispy French baguette.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Steamed Mussels",
+      "ingredients": [
+        "West Coast mussels",
+        "White wine",
+        "Garlic cream",
+        "Parsley",
+        "Baguette"
+      ]
+    },
+    {
+      "file": "676286746_1548166087310108_4492086956465363039_n.jpg",
+      "dish_name": "Classic Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e (Variant #75)",
+      "category": "desserts",
+      "description": "Rich custard base topped with a brittle caramelized sugar crust and butter shortbread cookie.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / French Classic",
+      "ingredients": [
+        "Vanilla custard",
+        "Caramelized sugar",
+        "Shortbread cookie"
+      ]
+    },
+    {
+      "file": "677763838_1548167827309934_6163685193997277331_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #76)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "677913669_1548167953976588_1095405624358620428_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #77)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "678335479_1548152180644832_2357971257577569594_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #78)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "689802790_1561983192595064_4631471193655329450_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #79)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "692938516_1561983442595039_7580733339214151587_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #80)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    },
+    {
+      "file": "697792835_1568704565256260_8255756188993662885_n.jpg",
+      "dish_name": "Gourmet Wagyu Beef Burger (Variant #81)",
+      "category": "mains",
+      "description": "200g juicy Wagyu beef patty on a brioche bun with aged cheddar, bacon jam, rocket, and hand-cut chips.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Artisan Burger",
+      "ingredients": [
+        "Wagyu beef patty",
+        "Brioche bun",
+        "Aged cheddar",
+        "Bacon jam",
+        "Hand-cut chips"
+      ]
+    },
+    {
+      "file": "697792927_1568702688589781_8121516916987681685_n.jpg",
+      "dish_name": "Brioche French Toast & Caramelized Banana (Variant #82)",
+      "category": "breakfast",
+      "description": "Thick-cut brioche French toast served with caramelized bananas, toasted pecans, and pure maple syrup.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Sweet Brunch",
+      "ingredients": [
+        "Brioche bread",
+        "Caramelized banana",
+        "Pecans",
+        "Maple syrup"
+      ]
+    },
+    {
+      "file": "698754657_1568704575256259_6710115801822507624_n.jpg",
+      "dish_name": "Artisanal Sorbet & Gelato Trio (Variant #83)",
+      "category": "desserts",
+      "description": "Selection of refreshing seasonal fruit sorbets (passion fruit, mango, raspberry) with berry coulis.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / Frozen Treats",
+      "ingredients": [
+        "Passion fruit sorbet",
+        "Mango gelato",
+        "Raspberry coulis"
+      ]
+    },
+    {
+      "file": "706664714_1577808387679211_6638353141214566480_n.jpg",
+      "dish_name": "The Florentine Breakfast",
+      "category": "breakfast",
+      "description": "Poached eggs and smoked trout on toasted sourdough, garnished with Mornay sauce, salmon roe, and microgreens.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Feature Dish",
+      "ingredients": [
+        "Smoked trout",
+        "Poached eggs",
+        "Mornay sauce",
+        "Salmon roe",
+        "Sourdough toast"
+      ]
+    },
+    {
+      "file": "707069334_1577808201012563_936477921027757122_n.jpg",
+      "dish_name": "Pan-Seared Local Linefish of the Day (Variant #85)",
+      "category": "seafood",
+      "description": "Freshly caught Kingklip fillet pan-seared with lemon herb butter, crushed new potatoes, and roasted baby vegetables.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Daily Catch",
+      "ingredients": [
+        "Local linefish",
+        "Lemon herb butter",
+        "New potatoes",
+        "Baby vegetables"
+      ]
+    },
+    {
+      "file": "707763808_1577808011012582_4274323579661869199_n.jpg",
+      "dish_name": "Slow-Braised Springbok Shank (Variant #86)",
+      "category": "mains",
+      "description": "Tender braised game shank in rich port wine reduction, served over sweet potato mash and glazed carrots.",
+      "quality": "high",
+      "suggested_use": "Mains Menu / Game Meat Specialty",
+      "ingredients": [
+        "Springbok shank",
+        "Port wine reduction",
+        "Sweet potato mash",
+        "Glazed carrots"
+      ]
+    },
+    {
+      "file": "709079672_1581660503960666_9062298008956235939_n.jpg",
+      "dish_name": "Smashed Avocado & Feta Sourdough Toast (Variant #87)",
+      "category": "breakfast",
+      "description": "Smashed avocado on toasted sourdough topped with beetroot hummus, crumbled feta, and toasted pumpkin seeds.",
+      "quality": "high",
+      "suggested_use": "Breakfast Menu / Healthy Start",
+      "ingredients": [
+        "Avocado",
+        "Sourdough",
+        "Beetroot hummus",
+        "Feta cheese",
+        "Pumpkin seeds"
+      ]
+    },
+    {
+      "file": "759942005_1639882708138445_3884872922056857884_n.jpg",
+      "dish_name": "West Coast Mussels in White Wine Marini\u00e8re (Variant #88)",
+      "category": "starters",
+      "description": "Steamed West Coast mussels in a creamy white wine, garlic, and parsley broth with crispy French baguette.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Steamed Mussels",
+      "ingredients": [
+        "West Coast mussels",
+        "White wine",
+        "Garlic cream",
+        "Parsley",
+        "Baguette"
+      ]
+    },
+    {
+      "file": "760648379_1639885948138121_431092054930385682_n.jpg",
+      "dish_name": "Classic Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e (Variant #89)",
+      "category": "desserts",
+      "description": "Rich custard base topped with a brittle caramelized sugar crust and butter shortbread cookie.",
+      "quality": "high",
+      "suggested_use": "Desserts Menu / French Classic",
+      "ingredients": [
+        "Vanilla custard",
+        "Caramelized sugar",
+        "Shortbread cookie"
+      ]
+    },
+    {
+      "file": "763762019_1646617727464943_950403646176122643_n.jpg",
+      "dish_name": "Bertha Reserve Pinotage & Wine Selection (Variant #90)",
+      "category": "beverages",
+      "description": "Glass of Bertha Estate Pinotage paired with a vineyard cheese board overlooking the ocean.",
+      "quality": "high",
+      "suggested_use": "Wines Menu / Estate Cellar",
+      "ingredients": [
+        "Bertha Estate Wine",
+        "Artisanal cheeses",
+        "Preserves"
+      ]
+    },
+    {
+      "file": "763805826_1646617884131594_6045328401273596008_n.jpg",
+      "dish_name": "Sunset Terrace Seating & Ocean Horizon (Variant #91)",
+      "category": "ambiance",
+      "description": "Golden hour view from the terrace dining tables looking out over the Atlantic horizon.",
+      "quality": "high",
+      "suggested_use": "Gallery / Sunset Vibe",
+      "ingredients": [
+        "Terrace seating",
+        "Atlantic sunset",
+        "Sea view"
+      ]
+    },
+    {
+      "file": "763992650_1646622530797796_6030671280881730014_n.jpg",
+      "dish_name": "Klein Karoo Venison Carpaccio (Variant #92)",
+      "category": "starters",
+      "description": "Paper-thin venison carpaccio drizzled with truffle mayo, capers, micro herbs, and shaved parmesan.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Cold Appetizer",
+      "ingredients": [
+        "Venison carpaccio",
+        "Truffle mayo",
+        "Capers",
+        "Parmesan",
+        "Micro herbs"
+      ]
+    },
+    {
+      "file": "764938186_1646618124131570_7514390084607127048_n.jpg",
+      "dish_name": "Grilled Halloumi & Chorizo Skewers (Variant #93)",
+      "category": "starters",
+      "description": "Pan-fried Cypriot halloumi and spicy chorizo drizzled with hot honey and fresh oregano.",
+      "quality": "high",
+      "suggested_use": "Starters Menu / Hot Tapas",
+      "ingredients": [
+        "Halloumi cheese",
+        "Chorizo",
+        "Hot honey",
+        "Oregano"
+      ]
+    },
+    {
+      "file": "765929549_1646622927464423_2089409292359937168_n.jpg",
+      "dish_name": "Salt & Pepper Crispy Calamari Tubes (Variant #94)",
+      "category": "seafood",
+      "description": "Tender calamari tubes lightly dusted in salt and pepper flour, served with romesco dipping sauce and lemon.",
+      "quality": "high",
+      "suggested_use": "Seafood Menu / Light Fare",
+      "ingredients": [
+        "Calamari tubes",
+        "Romesco sauce",
+        "Lemon aioli"
+      ]
+    }
+  ]
+}

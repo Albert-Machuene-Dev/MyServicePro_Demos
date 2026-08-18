@@ -1,0 +1,18 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFE4B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F4A460;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0A1A22"/>
+  <circle cx="400" cy="300" r="180" fill="url(#bg)"/>
+  <ellipse cx="380" cy="280" rx="70" ry="45" fill="#FFD700" opacity="0.9"/>
+  <ellipse cx="420" cy="280" rx="70" ry="45" fill="#FFD700" opacity="0.9"/>
+  <circle cx="380" cy="280" r="18" fill="#FF6347" opacity="0.9"/>
+  <circle cx="420" cy="280" r="18" fill="#FF6347" opacity="0.9"/>
+  <path d="M330 340 Q400 360 470 340" stroke="#8B4513" stroke-width="12" fill="none" opacity="0.8"/>
+  <path d="M350 360 Q400 375 450 360" stroke="#228B22" stroke-width="8" fill="none" opacity="0.8"/>
+  <text x="400" y="520" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Eggs Benedict</text>
+  <text x="400" y="560" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

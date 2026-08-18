@@ -1,0 +1,126 @@
+{
+  "name": "Klein Constantia",
+  "slug": "klein-constantia",
+  "tagline": "Rooted in Tradition. Crafted in Precision.",
+  "description": "One of the world's most beautiful vineyards, dating back to 1685. Home of the legendary Vin de Constance, favoured by Napoleon, Jane Austen, and Charles Dickens. A WWF Conservation Champion producing world-class wines on the slopes of the Constantiaberg.",
+  "location": "Constantia, Cape Town",
+  "phone": "+27 21 794 5188",
+  "email": "info@kleinconstantia.com",
+  "social": {
+    "instagram": "https://instagram.com/kleinconstantia",
+    "facebook": "https://facebook.com/kleinconstantia"
+  },
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#A3A3A3",
+    "accent": "#FFFFFF",
+    "dark": "#000000",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    {
+      "day": "Wine Tasting",
+      "time": "10:00 - 17:00"
+    },
+    {
+      "day": "Bistro",
+      "time": "12:00 - 15:00"
+    }
+  ],
+  "menuCategories": [
+    {
+      "name": "Wine Tastings",
+      "items": [
+        {
+          "name": "Vin de Constance Tasting",
+          "description": "The iconic sweet wine revival. A taste of history in the distinctive replica hand-blown bottle.",
+          "price": "R250",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Estate Range Tasting",
+          "description": "Sauvignon Blanc, Chardonnay, and red blends from our decomposed granite soils.",
+          "price": "R180",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Premium Heritage Tasting",
+          "description": "Limited releases and library wines. Includes Vin de Constance and rare vintages.",
+          "price": "R450",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Wines by the Bottle",
+      "items": [
+        {
+          "name": "Vin de Constance",
+          "description": "2007 vintage rated 97 pts — highest-rated SA sweet wine ever. Napoleon's deathbed glass.",
+          "price": "R1,850",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Estate Sauvignon Blanc",
+          "description": "Crisp, terroir-driven white from ocean-cooled slopes.",
+          "price": "R320",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Estate Chardonnay",
+          "description": "Elegant, barrel-fermented Chardonnay with mineral precision.",
+          "price": "R380",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Estate Red Blend",
+          "description": "Classic Bordeaux-style blend from Constantia's finest blocks.",
+          "price": "R420",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Experiences",
+      "items": [
+        {
+          "name": "Vineyard Tour",
+          "description": "Walk through 146 hectares of heritage vines with our winemaking team.",
+          "price": "R350",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Cellar Tour & Tasting",
+          "description": "Behind-the-scenes cellar experience with barrel tastings.",
+          "price": "R550",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Private Event Hire",
+          "description": "Host your event in one of the Cape's most historic settings.",
+          "price": "On Request",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg"
+  ],
+  "testimonials": [
+    {
+      "text": "Quietly sophisticated. Always an 11/10 experience.",
+      "author": "Winemag"
+    },
+    {
+      "text": "One of the world's most beautiful vineyards.",
+      "author": "Wine Spectator"
+    }
+  ],
+  "heroImage": "",
+  "aboutImage": "",
+  "heroVideo": ""
+}

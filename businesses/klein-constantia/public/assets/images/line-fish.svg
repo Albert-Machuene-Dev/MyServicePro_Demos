@@ -1,0 +1,17 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fishbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F4C75;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1A22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#fishbg)"/>
+  <ellipse cx="400" cy="300" rx="220" ry="140" fill="#2C3E50"/>
+  <path d="M250 300 Q400 220 550 300 Q400 380 250 300" fill="#C0C0C0" opacity="0.9"/>
+  <circle cx="360" cy="280" r="12" fill="#333"/>
+  <path d="M280 320 L320 340 L280 360" fill="#FF8C00" opacity="0.8"/>
+  <path d="M520 320 L480 340 L520 360" fill="#FF8C00" opacity="0.8"/>
+  <path d="M350 360 Q400 390 450 360" stroke="#32CD32" stroke-width="8" fill="none"/>
+  <text x="400" y="520" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Grilled Line Fish</text>
+  <text x="400" y="560" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

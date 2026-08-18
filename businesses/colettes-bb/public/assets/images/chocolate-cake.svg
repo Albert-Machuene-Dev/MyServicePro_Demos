@@ -1,0 +1,18 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cakebg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3E2723;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A100E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#cakebg)"/>
+  <rect x="280" y="220" width="240" height="180" rx="20" fill="#5D4037"/>
+  <rect x="300" y="200" width="240" height="180" rx="20" fill="#795548"/>
+  <path d="M300 220 Q420 260 540 220" stroke="#3E2723" stroke-width="15" fill="none" opacity="0.6"/>
+  <circle cx="360" cy="260" r="15" fill="#D2691E"/>
+  <circle cx="420" cy="280" r="15" fill="#D2691E"/>
+  <circle cx="480" cy="250" r="15" fill="#D2691E"/>
+  <path d="M330 300 Q420 330 510 300" stroke="#F5F5DC" stroke-width="8" fill="none" opacity="0.7"/>
+  <text x="400" y="480" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Chocolate Cake</text>
+  <text x="400" y="520" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

@@ -1,0 +1,132 @@
+{
+  "name": "Colette's Bed & Breakfast",
+  "slug": "colettes-bb",
+  "tagline": "Home-from-Home in the 10-Minute Suburb",
+  "description": "A 3-star graded B&B in the leafy garden city suburb of Pinelands. Quiet, safe, and central — 10 minutes from the City Bowl, 15 from the airport. Perfect for medical travellers, business guests, and leisure visitors seeking a village feel with everything close by.",
+  "location": "16 The Bend, Pinelands, Cape Town",
+  "phone": "",
+  "email": "",
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#A3A3A3",
+    "accent": "#FFFFFF",
+    "dark": "#000000",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    {
+      "day": "Check-in",
+      "time": "14:00"
+    },
+    {
+      "day": "Check-out",
+      "time": "10:00 - 12:00"
+    }
+  ],
+  "menuCategories": [
+    {
+      "name": "Rooms & Rates",
+      "items": [
+        {
+          "name": "Ground-Level Double Room",
+          "description": "Spacious en-suite room with double/queen bed, large bathroom with shower + bath, bar fridge, microwave, tea/coffee, Android TV with Netflix, and direct access to a small outside area.",
+          "price": "From R850",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Ground-Level Twin Room",
+          "description": "Two single beds with adjoining private shower room, DSTV, and tea/coffee facilities. Ideal for colleagues or friends travelling together.",
+          "price": "From R750",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Open-Plan Loft One",
+          "description": "Upstairs quirky loft with double bed, sleeper couch, workstation, integrated open-plan shower room, bar fridge, microwave, and Netflix TV.",
+          "price": "From R800",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Self-Catering Garden Cottage",
+          "description": "King or twin beds in semi-private sleeping space, deluxe en-suite shower, fully equipped kitchen, and TV lounge with daybed.",
+          "price": "From R950",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Amenities",
+      "items": [
+        {
+          "name": "Fast Free WiFi",
+          "description": "High-speed internet throughout the property.",
+          "price": "Included",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Secure Off-Street Parking",
+          "description": "One medium vehicle per room, behind a gated fence.",
+          "price": "Included",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Shared Kitchenette",
+          "description": "24-hour access to a shared kitchenette for guests.",
+          "price": "Included",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Garden & Braai",
+          "description": "Relax in our garden with BBQ/braai facilities.",
+          "price": "Included",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "items": [
+        {
+          "name": "Airport Shuttle",
+          "description": "Available on request, surcharge applies.",
+          "price": "On Request",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Laundry & Dry Cleaning",
+          "description": "Professional laundry and dry-cleaning service.",
+          "price": "On Request",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Area Shuttle",
+          "description": "Shuttle service within 15 km radius.",
+          "price": "On Request",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg"
+  ],
+  "testimonials": [
+    {
+      "text": "Quiet, safe, homey, and perfectly central.",
+      "author": "TripAdvisor Review"
+    },
+    {
+      "text": "The best base for exploring Cape Town without the noise.",
+      "author": "Booking.com Guest"
+    }
+  ],
+  "heroImage": "",
+  "aboutImage": "",
+  "heroVideo": ""
+}

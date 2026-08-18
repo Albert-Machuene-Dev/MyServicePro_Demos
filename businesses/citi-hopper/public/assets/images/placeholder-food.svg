@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#0A1A22"/>
+  <circle cx="200" cy="135" r="50" stroke="#D4AF37" stroke-width="2" stroke-dasharray="6 4" opacity="0.6"/>
+  <path d="M175 125h50M175 140h50M175 155h35" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#FFFFFF" opacity="0.8">
+    Image Coming Soon
+  </text>
+  <text x="200" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#E8F4F8" opacity="0.5">
+    On The Rocks
+  </text>
+</svg>

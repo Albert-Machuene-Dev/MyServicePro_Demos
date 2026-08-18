@@ -1,0 +1,19 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="plate" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#2C3E50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A252F;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0A1A22"/>
+  <ellipse cx="400" cy="320" rx="260" ry="180" fill="url(#plate)"/>
+  <ellipse cx="320" cy="300" rx="90" ry="50" fill="#FF7F50" opacity="0.9" transform="rotate(-20 320 300)"/>
+  <ellipse cx="420" cy="280" rx="80" ry="45" fill="#FF6347" opacity="0.9" transform="rotate(10 420 280)"/>
+  <ellipse cx="500" cy="320" rx="85" ry="48" fill="#FF8C00" opacity="0.9" transform="rotate(-10 500 320)"/>
+  <ellipse cx="380" cy="370" rx="75" ry="42" fill="#F4A460" opacity="0.9"/>
+  <path d="M300 250 Q350 220 400 250" stroke="#32CD32" stroke-width="6" fill="none"/>
+  <circle cx="360" cy="240" r="8" fill="#32CD32"/>
+  <circle cx="400" cy="235" r="7" fill="#32CD32"/>
+  <text x="400" y="520" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Cape Seafood Platter</text>
+  <text x="400" y="560" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

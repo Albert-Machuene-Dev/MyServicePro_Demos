@@ -1,0 +1,18 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pannabg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF8E7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F5DEB3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0A1A22"/>
+  <ellipse cx="400" cy="300" rx="160" ry="130" fill="url(#pannabg)"/>
+  <circle cx="350" cy="270" r="30" fill="#8B0000" opacity="0.8"/>
+  <circle cx="400" cy="250" r="28" fill="#8B0000" opacity="0.8"/>
+  <circle cx="450" cy="275" r="32" fill="#8B0000" opacity="0.8"/>
+  <circle cx="380" cy="320" r="26" fill="#8B0000" opacity="0.8"/>
+  <circle cx="430" cy="330" r="24" fill="#8B0000" opacity="0.8"/>
+  <path d="M340 360 Q400 390 460 360" stroke="#8B4513" stroke-width="8" fill="none" opacity="0.6"/>
+  <text x="400" y="520" font-family="Georgia, serif" font-size="36" fill="#F5F5DC" text-anchor="middle">Cape Velvet Panna Cotta</text>
+  <text x="400" y="560" font-family="Inter, sans-serif" font-size="18" fill="#D4AF37" text-anchor="middle">Replace with real food photo</text>
+</svg>

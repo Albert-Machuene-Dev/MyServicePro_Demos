@@ -1,0 +1,136 @@
+{
+  "name": "Wow Travel & Tours",
+  "slug": "wow-travel-tours",
+  "tagline": "Personalized, Breathtaking & Unforgettable",
+  "description": "Family-owned DMC and tour operator since 2007. Owner-run by qualified local guide Rushdi Harper. Personalized private tours, corporate conferencing, and incentive travel across South Africa, Botswana, Tanzania, and Zambia. Accredited by SA Tourism, SATSA, and NDT.",
+  "location": "147 De Waal Road, Southfield, Cape Town",
+  "phone": "+27 21 204 4707",
+  "email": "info@wowtravelandtours.com",
+  "social": {
+    "instagram": "https://instagram.com/wow_tours_",
+    "facebook": "https://facebook.com/wowtravelntours"
+  },
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#A3A3A3",
+    "accent": "#FFFFFF",
+    "dark": "#000000",
+    "light": "#FFFFFF"
+  },
+  "hours": [
+    {
+      "day": "Monday - Friday",
+      "time": "08:00 - 17:00"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:00 - 13:00"
+    },
+    {
+      "day": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "menuCategories": [
+    {
+      "name": "Day Tours",
+      "items": [
+        {
+          "name": "Full Day Cape Peninsula",
+          "description": "Cape Point, Chapman's Peak Drive, Boulders Beach penguins, Hout Bay, and optional Seal Island boat trip. Includes entrance fees, lunch, and qualified guide.",
+          "price": "R3,500",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Best of Cape Town",
+          "description": "Table Mountain, city highlights, and the best of the Mother City in one comprehensive day tour.",
+          "price": "R3,700",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Stellenbosch Wine Tour",
+          "description": "Half-day tour through the Stellenbosch winelands with estate tastings and cellar tours.",
+          "price": "R1,350",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Aquila Wildlife Safari",
+          "description": "Full-day Big 5 safari at Aquila Private Game Reserve. Includes game drive and lunch.",
+          "price": "R9,250",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Multi-Day Packages",
+      "items": [
+        {
+          "name": "3 Nights Garden Route",
+          "description": "Explore the Garden Route with accommodation, transport, and guided experiences included.",
+          "price": "From R18,500",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "4-Night Garden Route Safari",
+          "description": "Safari and adventure package along the Garden Route with Big 5 game viewing.",
+          "price": "R37,500",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Under African Skies — Tanzania",
+          "description": "Multi-country safari experience across Tanzania's most iconic reserves.",
+          "price": "R64,311",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    },
+    {
+      "name": "Corporate & Events",
+      "items": [
+        {
+          "name": "Conference Transport",
+          "description": "Full transport logistics for conferences up to 750 delegates. Venue hire and team events included.",
+          "price": "Custom Quote",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Incentive Group Travel",
+          "description": "Tailor-made incentive programs for corporate groups across Southern Africa.",
+          "price": "Custom Quote",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Airport Transfers — Private",
+          "description": "Private one-way or return airport transfers in luxury Mercedes-Benz vehicles.",
+          "price": "R850 / R1,700",
+          "image": "/assets/images/placeholder-food.svg"
+        },
+        {
+          "name": "Airport Transfers — Group",
+          "description": "Group shuttle transfers for teams and conference delegates.",
+          "price": "R350 / R700",
+          "image": "/assets/images/placeholder-food.svg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg",
+    "assets/images/placeholder-food.svg"
+  ],
+  "testimonials": [
+    {
+      "text": "Attention to detail and personal service made this unforgettable.",
+      "author": "Corporate Client"
+    },
+    {
+      "text": "Rushdi's knowledge of Cape Town is unmatched.",
+      "author": "International Visitor"
+    }
+  ],
+  "heroImage": "",
+  "aboutImage": "",
+  "heroVideo": ""
+}
