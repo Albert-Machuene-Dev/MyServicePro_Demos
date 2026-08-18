@@ -23,14 +23,14 @@ function AboutSection() {
               <img
                 src={restaurant.aboutImage || restaurant.gallery[0]}
                 alt="Restaurant interior"
-                className="rounded-2xl shadow-2xl shadow-primary/20 w-full aspect-[4/5] object-cover"
+                className="rounded-2xl shadow-2xl shadow-white/10 w-full aspect-[4/5] object-cover"
                 onError={(e) => {
                   e.target.style.display = 'none'
                 }}
               />
-              <div className="absolute -bottom-6 -right-6 bg-primary p-6 rounded-2xl hidden md:block">
-                <p className="font-display text-3xl font-bold text-light">15+</p>
-                <p className="text-light/80 text-sm">Years of Excellence</p>
+              <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl hidden md:block">
+                <p className="font-display text-3xl font-bold text-black">15+</p>
+                <p className="text-black/70 text-sm">Years of Excellence</p>
               </div>
             </div>
           </motion.div>
@@ -58,7 +58,7 @@ function AboutSection() {
                   transition={{ duration: 0.5, delay: index * 0.1 }}
                   className="text-center p-4 rounded-xl bg-light/5"
                 >
-                  <feature.icon className="mx-auto text-accent mb-3" size={28} />
+                  <feature.icon className="mx-auto text-white mb-3" size={28} />
                   <h3 className="font-semibold text-light mb-1">{feature.title}</h3>
                   <p className="text-secondary/60 text-sm">{feature.desc}</p>
                 </motion.div>

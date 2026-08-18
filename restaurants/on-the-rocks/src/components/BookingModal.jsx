@@ -53,7 +53,7 @@ function BookingModal({ onClose, onDemoNotice }) {
               type="text"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light placeholder-secondary/40 focus:border-accent focus:outline-none"
+              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light placeholder-secondary/40 focus:border-white focus:outline-none"
               placeholder="Your name"
             />
           </div>
@@ -64,7 +64,7 @@ function BookingModal({ onClose, onDemoNotice }) {
               type="tel"
               value={formData.phone}
               onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light placeholder-secondary/40 focus:border-accent focus:outline-none"
+              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light placeholder-secondary/40 focus:border-white focus:outline-none"
               placeholder="+27 82 000 0000"
             />
           </div>
@@ -79,7 +79,7 @@ function BookingModal({ onClose, onDemoNotice }) {
                 type="date"
                 value={formData.date}
                 onChange={(e) => setFormData({ ...formData, date: e.target.value })}
-                className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-accent focus:outline-none"
+                className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-white focus:outline-none"
               />
             </div>
             <div>
@@ -91,7 +91,7 @@ function BookingModal({ onClose, onDemoNotice }) {
                 type="time"
                 value={formData.time}
                 onChange={(e) => setFormData({ ...formData, time: e.target.value })}
-                className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-accent focus:outline-none"
+                className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-white focus:outline-none"
               />
             </div>
           </div>
@@ -104,7 +104,7 @@ function BookingModal({ onClose, onDemoNotice }) {
             <select
               value={formData.guests}
               onChange={(e) => setFormData({ ...formData, guests: e.target.value })}
-              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-accent focus:outline-none"
+              className="w-full px-4 py-3 rounded-lg bg-dark/50 border border-light/10 text-light focus:border-white focus:outline-none"
             >
               {[1, 2, 3, 4, 5, 6, 7, 8].map((num) => (
                 <option key={num} value={num}>{num} {num === 1 ? 'Guest' : 'Guests'}</option>
@@ -114,7 +114,7 @@ function BookingModal({ onClose, onDemoNotice }) {
 
           <button
             type="submit"
-            className="w-full py-4 bg-primary hover:bg-primary/90 text-light font-semibold rounded-lg transition-all transform hover:scale-[1.02]"
+            className="w-full py-4 bg-white hover:bg-white/90 text-black font-semibold rounded-lg transition-all transform hover:scale-[1.02]"
           >
             Request Booking
           </button>

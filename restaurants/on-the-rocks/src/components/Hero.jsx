@@ -28,7 +28,7 @@ function Hero({ onBook }) {
             }}
           />
         )}
-        <div className="absolute inset-0 bg-gradient-to-b from-dark/70 via-dark/50 to-dark" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-black" />
       </div>
 
       {/* Content */}
@@ -38,15 +38,22 @@ function Hero({ onBook }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-accent font-medium tracking-[0.3em] uppercase mb-4 text-sm md:text-base">
-            Welcome to
-          </p>
-          <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 text-shadow">
-            {restaurant.name}
-          </h1>
-          <p className="text-xl md:text-2xl text-secondary/90 mb-8 font-light">
-            {restaurant.tagline}
-          </p>
+          {/* Black card behind logo */}
+          <div className="bg-black/90 border border-white/10 rounded-3xl px-8 py-10 md:px-14 md:py-14 mb-10 inline-block max-w-3xl mx-auto backdrop-blur-sm">
+            <p className="text-white/60 font-medium tracking-[0.3em] uppercase mb-6 text-sm md:text-base">
+              Welcome to
+            </p>
+            <div className="w-full max-w-xl mx-auto mb-6">
+              <img
+                src="/assets/images/logo-white.png"
+                alt={restaurant.name}
+                className="w-full h-auto"
+              />
+            </div>
+            <p className="text-xl md:text-2xl text-white/70 font-light">
+              {restaurant.tagline}
+            </p>
+          </div>
         </motion.div>
 
         <motion.div
@@ -57,13 +64,13 @@ function Hero({ onBook }) {
         >
           <button
             onClick={onBook}
-            className="px-8 py-4 bg-primary hover:bg-primary/90 text-light font-semibold rounded-full transition-all transform hover:scale-105 shadow-lg shadow-primary/30"
+            className="px-8 py-4 bg-white hover:bg-white/90 text-black font-semibold rounded-full transition-all transform hover:scale-105 shadow-lg shadow-white/20"
           >
             Book a Table
           </button>
           <a
             href="#menu"
-            className="px-8 py-4 border-2 border-light/30 hover:border-accent text-light font-semibold rounded-full transition-all hover:bg-light/10"
+            className="px-8 py-4 border-2 border-white/30 hover:border-white text-white font-semibold rounded-full transition-all hover:bg-white/10"
           >
             View Menu
           </a>
@@ -75,11 +82,11 @@ function Hero({ onBook }) {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="flex flex-col sm:flex-row gap-6 justify-center items-center text-sm text-secondary/80"
         >
-          <a href={`tel:${restaurant.phone}`} className="flex items-center gap-2 hover:text-accent transition-colors">
+          <a href={`tel:${restaurant.phone}`} className="flex items-center gap-2 hover:text-white transition-colors">
             <Phone size={16} />
             {restaurant.phone}
           </a>
-          <span className="hidden sm:inline">|</span>
+          <span className="hidden sm:inline text-white/30">|</span>
           <span className="flex items-center gap-2">
             <MapPin size={16} />
             {restaurant.location}
@@ -93,7 +100,7 @@ function Hero({ onBook }) {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 0.8 }}
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 text-light/60 hover:text-accent transition-colors"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 text-white/60 hover:text-white transition-colors"
       >
         <motion.div
           animate={{ y: [0, 10, 0] }}

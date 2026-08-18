@@ -30,7 +30,7 @@ function ContactSection() {
             className="space-y-6"
           >
             <div className="flex items-start gap-4 p-4 rounded-xl bg-light/5">
-              <MapPin className="text-accent shrink-0" size={24} />
+              <MapPin className="text-white shrink-0" size={24} />
               <div>
                 <h3 className="font-semibold text-light mb-1">Address</h3>
                 <p className="text-secondary/70">{restaurant.location}</p>
@@ -38,7 +38,7 @@ function ContactSection() {
             </div>
 
             <a href={`tel:${restaurant.phone}`} className="flex items-start gap-4 p-4 rounded-xl bg-light/5 hover:bg-light/10 transition-colors">
-              <Phone className="text-accent shrink-0" size={24} />
+              <Phone className="text-white shrink-0" size={24} />
               <div>
                 <h3 className="font-semibold text-light mb-1">Phone</h3>
                 <p className="text-secondary/70">{restaurant.phone}</p>
@@ -46,7 +46,7 @@ function ContactSection() {
             </a>
 
             <a href={`mailto:${restaurant.email}`} className="flex items-start gap-4 p-4 rounded-xl bg-light/5 hover:bg-light/10 transition-colors">
-              <Mail className="text-accent shrink-0" size={24} />
+              <Mail className="text-white shrink-0" size={24} />
               <div>
                 <h3 className="font-semibold text-light mb-1">Email</h3>
                 <p className="text-secondary/70">{restaurant.email}</p>
@@ -54,7 +54,7 @@ function ContactSection() {
             </a>
 
             <div className="flex items-start gap-4 p-4 rounded-xl bg-light/5">
-              <Clock className="text-accent shrink-0" size={24} />
+              <Clock className="text-white shrink-0" size={24} />
               <div>
                 <h3 className="font-semibold text-light mb-2">Opening Hours</h3>
                 <div className="space-y-1">
@@ -69,10 +69,10 @@ function ContactSection() {
             </div>
 
             <div className="flex gap-4 pt-4">
-              <a href={restaurant.social.instagram} className="p-3 rounded-full bg-light/5 hover:bg-primary transition-colors text-light">
+              <a href={restaurant.social.instagram} className="p-3 rounded-full bg-light/5 hover:bg-white transition-colors text-light hover:text-black">
                 <Instagram size={20} />
               </a>
-              <a href={restaurant.social.facebook} className="p-3 rounded-full bg-light/5 hover:bg-primary transition-colors text-light">
+              <a href={restaurant.social.facebook} className="p-3 rounded-full bg-light/5 hover:bg-white transition-colors text-light hover:text-black">
                 <Facebook size={20} />
               </a>
             </div>
@@ -86,7 +86,7 @@ function ContactSection() {
             className="rounded-2xl overflow-hidden bg-light/5 aspect-square md:aspect-auto min-h-[400px] flex items-center justify-center"
           >
             <div className="text-center p-8">
-              <MapPin className="mx-auto text-accent mb-4" size={48} />
+              <MapPin className="mx-auto text-white mb-4" size={48} />
               <p className="text-secondary/70">Map integration available upon subscription</p>
               <p className="text-sm text-secondary/50 mt-2">Demo preview only</p>
             </div>

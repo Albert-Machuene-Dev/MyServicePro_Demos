@@ -7,6 +7,8 @@ import ContactSection from './components/ContactSection'
 import BookingModal from './components/BookingModal'
 import FloatingCTA from './components/FloatingCTA'
 import Footer from './components/Footer'
+import SplashWrapper from './components/LoadingScreen'
+import Header from './components/Header'
 import restaurant from './data/restaurant.json'
 
 function App() {
@@ -28,30 +30,33 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-dark text-light">
-      <Hero onBook={() => setIsBookingOpen(true)} />
-      <MenuSection onOrder={() => setIsBookingOpen(true)} />
-      <GallerySection />
-      <AboutSection />
-      <ContactSection />
-      <Footer />
-      
-      <FloatingCTA onClick={() => setIsBookingOpen(true)} />
-      
-      {isBookingOpen && (
-        <BookingModal 
-          onClose={() => setIsBookingOpen(false)} 
-          onDemoNotice={showDemoNotice}
-        />
-      )}
+    <SplashWrapper>
+      <div className="min-h-screen bg-dark text-light">
+        <Header />
+        <Hero onBook={() => setIsBookingOpen(true)} />
+        <MenuSection onOrder={() => setIsBookingOpen(true)} />
+        <GallerySection />
+        <AboutSection />
+        <ContactSection />
+        <Footer />
+        
+        <FloatingCTA onClick={() => setIsBookingOpen(true)} />
+        
+        {isBookingOpen && (
+          <BookingModal 
+            onClose={() => setIsBookingOpen(false)} 
+            onDemoNotice={showDemoNotice}
+          />
+        )}
 
-      {/* Demo-only notice toast */}
-      {demoNotice && (
-        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 px-6 py-3 glass rounded-full text-sm font-medium animate-bounce">
-          This is a demo — booking not active yet
-        </div>
-      )}
-    </div>
+        {/* Demo-only notice toast */}
+        {demoNotice && (
+          <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 px-6 py-3 glass rounded-full text-sm font-medium animate-bounce">
+            This is a demo — booking not active yet
+          </div>
+        )}
+      </div>
+    </SplashWrapper>
   )
 }
 

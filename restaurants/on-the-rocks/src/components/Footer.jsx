@@ -17,7 +17,7 @@ function Footer() {
 
           <div className="flex flex-col items-center md:items-end gap-2">
             <p className="text-secondary/60 text-sm flex items-center gap-1">
-              Made with <Heart size={14} className="text-primary" /> by MyServicePro
+              Made with <Heart size={14} className="text-white" /> by MyServicePro
             </p>
             <p className="text-secondary/40 text-xs">
               Demo website — not the official site

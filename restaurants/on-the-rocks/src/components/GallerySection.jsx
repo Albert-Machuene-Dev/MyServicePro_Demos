@@ -16,7 +16,7 @@ function GallerySection() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <Camera className="mx-auto text-accent mb-4" size={40} />
+          <Camera className="mx-auto text-white mb-4" size={40} />
           <h2 className="font-display text-4xl md:text-5xl font-bold mb-4">
             The Experience
           </h2>
@@ -46,7 +46,7 @@ function GallerySection() {
                   e.target.src = 'assets/images/placeholder-interior.svg'
                 }}
               />
-              <div className="absolute inset-0 bg-dark/0 group-hover:bg-dark/40 transition-all" />
+              <div className="absolute inset-0 bg-black/0 group-hover:bg-black/40 transition-all" />
             </motion.div>
           ))}
         </div>
@@ -60,7 +60,7 @@ function GallerySection() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             onClick={() => setSelectedImage(null)}
-            className="fixed inset-0 z-50 bg-dark/95 flex items-center justify-center p-4"
+            className="fixed inset-0 z-50 bg-black/95 flex items-center justify-center p-4"
           >
             <button
               onClick={() => setSelectedImage(null)}
