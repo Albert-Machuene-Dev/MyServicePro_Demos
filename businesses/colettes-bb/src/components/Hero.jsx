@@ -43,13 +43,9 @@ function Hero({ onBook }) {
             <p className="text-white/60 font-medium tracking-[0.3em] uppercase mb-6 text-sm md:text-base">
               Welcome to
             </p>
-            <div className="w-full max-w-xl mx-auto mb-6">
-              <img
-                src="/assets/images/logo-white.png"
-                alt={restaurant.name}
-                className="w-full h-auto"
-              />
-            </div>
+            <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
+              {restaurant.name}
+            </h1>
             <p className="text-xl md:text-2xl text-white/70 font-light">
               {restaurant.tagline}
             </p>

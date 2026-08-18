@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import restaurant from '../data/restaurant.json';
 
 function LoadingScreen({ onComplete }) {
   const [progress, setProgress] = useState(0);
 
   useEffect(() => {
-    const duration = 2800; // Total splash duration in ms
+    const duration = 2800;
     const interval = 30;
     const steps = duration / interval;
     let current = 0;
@@ -29,7 +30,6 @@ function LoadingScreen({ onComplete }) {
       exit={{ opacity: 0, y: '-100%' }}
       transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
     >
-      {/* Subtle vignette */}
       <div className="absolute inset-0 pointer-events-none"
         style={{
           background: `radial-gradient(circle at 50% 45%, rgba(255,255,255,0.03) 0%, transparent 60%)`
@@ -42,37 +42,24 @@ function LoadingScreen({ onComplete }) {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8, ease: 'easeOut' }}
       >
-        {/* Logo */}
-        <motion.div
-          className="w-64 md:w-96 mb-8"
-          initial={{ scale: 0.9, opacity: 0 }}
-          animate={{ scale: 1, opacity: 1 }}
+        {/* Business Name as Logo */}
+        <motion.h1
+          className="font-display text-4xl md:text-6xl font-bold text-white mb-4 tracking-tight"
+          initial={{ y: 20, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          <img
-            src="/assets/images/logo-white.png"
-            alt="On the Rocks"
-            className="w-full h-auto drop-shadow-2xl"
-          />
-        </motion.div>
+          {restaurant.name}
+        </motion.h1>
 
-        {/* Welcome */}
+        {/* Tagline */}
         <motion.p
-          className="text-lg md:text-2xl text-white/80 font-light tracking-[0.3em] uppercase"
+          className="text-lg md:text-2xl text-white/80 font-light tracking-[0.2em] uppercase"
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 0.6, duration: 0.8 }}
+          transition={{ delay: 0.5, duration: 0.8 }}
         >
-          Welcome
-        </motion.p>
-
-        <motion.p
-          className="mt-3 text-sm md:text-base text-white/50 font-medium tracking-wider"
-          initial={{ y: 20, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 0.8, duration: 0.8 }}
-        >
-          180° Ocean Views · Unforgettable Dining
+          {restaurant.tagline}
         </motion.p>
       </motion.div>
 

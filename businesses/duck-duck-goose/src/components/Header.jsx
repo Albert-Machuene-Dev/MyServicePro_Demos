@@ -41,11 +41,9 @@ function Header() {
         <div className="w-full max-w-6xl mx-auto px-4 md:px-6 flex items-center justify-between">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 shrink-0 max-w-[60%]" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-            <img
-              src="/assets/images/logo-white.png"
-              alt={restaurant.name}
-              className="h-5 md:h-10 w-auto"
-            />
+            <span className="font-display text-lg md:text-2xl font-bold text-white tracking-tight">
+              {restaurant.name}
+            </span>
           </a>
 
           {/* Menu Button Only */}
@@ -79,11 +77,9 @@ function Header() {
             >
               {/* Header */}
               <div className="flex items-center justify-between mb-10">
-                <img
-                  src="/assets/images/logo-white.png"
-                  alt={restaurant.name}
-                  className="h-10 w-auto"
-                />
+                <span className="font-display text-xl font-bold text-white tracking-tight">
+                  {restaurant.name}
+                </span>
                 <button
                   onClick={() => setIsOpen(false)}
                   className="p-2 rounded-full text-white/70 hover:text-white hover:bg-white/10"
