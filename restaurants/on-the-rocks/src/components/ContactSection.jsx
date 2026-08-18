@@ -83,7 +83,7 @@ function ContactSection() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="rounded-2xl overflow-hidden bg-light/5 aspect-square md:aspect-auto min-h-[400px] flex items-center justify-center"
+            className="rounded-2xl overflow-hidden bg-light/5 min-h-[300px] md:min-h-[400px] flex items-center justify-center w-full"
           >
             <div className="text-center p-8">
               <MapPin className="mx-auto text-white mb-4" size={48} />
